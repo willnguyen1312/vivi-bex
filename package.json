@@ -6,7 +6,8 @@
   "author": "Nam Nguyen <nam.nguyen.node@gmail.com>",
   "private": true,
   "scripts": {
-    "dev": "quasar dev"
+    "dev": "quasar dev -m bex",
+    "build": "quasar build -m bex"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
