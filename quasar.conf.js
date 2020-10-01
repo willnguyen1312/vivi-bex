@@ -122,7 +122,7 @@ module.exports = configure(function(ctx) {
       manifest: {
         name: 'Vivi BEX',
         short_name: 'Vivi BEX',
-        description: 'VIvi BEX',
+        description: 'Vivi BEX',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
