@@ -10,7 +10,6 @@
 </template>
 
 <script lang="ts">
-import ExampleComponent from 'components/CompositionComponent.vue';
 import { defineComponent } from '@vue/composition-api';
 
 export default defineComponent({
