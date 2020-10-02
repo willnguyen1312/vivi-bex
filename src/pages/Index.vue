@@ -5,6 +5,7 @@
       height="100%"
       width="100%"
       contain
+      spinner-color="white"
     />
   </q-page>
 </template>
