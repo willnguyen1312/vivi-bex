@@ -14,7 +14,7 @@ const getMiniviewButton = () =>
 (async () => {
   searchInput = getSearchInput();
   searchButton = getSearchButton();
-  while (!(searchInput && searchInput)) {
+  while (!(searchInput && searchButton)) {
     await new Promise(res =>
       setTimeout(() => {
         res();
